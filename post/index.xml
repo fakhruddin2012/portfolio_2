@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mohd Fakhruddin</title>
+    <link>https://fakhruddin950.github.io/portfolio_2/post/</link>
+    <description>Recent content in Projects on Mohd Fakhruddin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fakhruddin950.github.io/portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Car Brand Classifier</title>
+      <link>https://fakhruddin950.github.io/portfolio_2/post/project-1/</link>
+      <pubDate>Mon, 28 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fakhruddin950.github.io/portfolio_2/post/project-1/</guid>
+      <description>In this project my aim was to classify the car brands by seeing the image of the car. I am using Deep Learning&amp;rsquo;s Resnet50 model architecture in this project. The final accuracy which I got after 50 epochs was 92.19%. Below graphs show the training and validation accuracy and loss      Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Flight Fare Prediction.</title>
+      <link>https://fakhruddin950.github.io/portfolio_2/post/project-2/</link>
+      <pubDate>Thu, 01 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fakhruddin950.github.io/portfolio_2/post/project-2/</guid>
+      <description>This is a Machine learning project. In this project I am trying to predict the fare of flights by training the dataset which contain data for one year. At first dataset required cleaning as most of the columns were categorical so I converted them into numerical. I did feature engineering to get dates months from the existing columns. I dropped the additional info and route columns as most of the values were missing or of no use.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Sentiment Analysis of IMDB Movie Reviews.</title>
+      <link>https://fakhruddin950.github.io/portfolio_2/post/project-3/</link>
+      <pubDate>Wed, 05 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fakhruddin950.github.io/portfolio_2/post/project-3/</guid>
+      <description>In this, we have to predict the number of positive and negative reviews based on sentiments by using different classification models. I have used three classification models. I observed that both logistic regression and multinomial naive bayes model performing well compared to linear support vector machines.  Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
